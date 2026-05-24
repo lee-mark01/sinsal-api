@@ -1,6 +1,5 @@
 # 신살 분석 API — 사주 기반 신살 탐지 REST API
 
-> PlayX4 게임 전시회(2026.05.21~24, 킨텍스) 출품작
 > **4일간 144명 대상 무장애 운영** | 에러율 0% | 평균 응답시간 2ms
 
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -18,7 +17,7 @@
 
 멋쟁이사자처럼 인천대 14기 팀 프로젝트로, 생년월일을 입력하면 사주의 천간·지지 관계를 분석하여 15종의 신살을 탐지하는 REST API입니다.
 
-PlayX4 게임 전시회에 출품하여 4일간 실사용자 144명을 대상으로 서비스를 운영했습니다.
+PlayX4 게임 전시회에 출품하는 누에고치 게임 팀과 협업하여, 4일간 실사용자 144명을 대상으로 서비스를 운영했습니다.
 
 - **프론트엔드 레포**: [14th-nue-collab-frontend](https://github.com/LikeLionUniv-INU/14th-nue-collab-frontend)
 
